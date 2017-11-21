@@ -1,0 +1,33 @@
+#logo {
+
+    width: 175px;
+    position: absolute;
+    top: 100px;
+    left: 669px
+}
+
+.fondo {
+    background-size: cover;
+    background-image: url(heather.gif);
+    height: 200px;
+    width: 50%;
+    margin-top: 2px;
+
+}
+
+}
+
+.fondo {
+
+    font-size: 0px;
+    margin-left: 190px;
+    margin-right: 100px;
+    margin-top: 0px;
+}
+
+.fondo h1 {
+
+    position: absolute;
+    margin-left: 420px;
+    font-size: 50px
+}
